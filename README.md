@@ -1,4 +1,4 @@
-# tailscale-exporter
+# TailScale Device Observability
 
 A Prometheus exporter written in Go that polls the [Tailscale API](https://tailscale.com/api) and exposes per-device health metrics for your tailnet. Plug it into any standard Prometheus + Grafana stack to get visibility into device connectivity, key expiry, and client version drift across your network.
 
